@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" width="350px" align="right" style="border-radius: 24px;"> 
 
-<!--
-**gabrielprw/gabrielprw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🤠 &nbsp;Sobre mim: </h3>
+  
+- 😎 Viciado em aprender.
+- 🎓 Atualmente focado em fullstack.
 
-Here are some ideas to get you started:
+<h3> 📌 &nbsp;Minhas Skills </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielprw&count_private=true&show_icons=true&theme=cobalt)
